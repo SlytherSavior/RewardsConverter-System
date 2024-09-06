@@ -1,4 +1,4 @@
-# 💳 JPMorgan Chase RewardsConverter System
+# 💳 RewardsConverter System
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%23A020F0.svg?style=for-the-badge&logo=junit5&logoColor=white)
